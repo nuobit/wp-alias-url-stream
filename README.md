@@ -1,7 +1,7 @@
 # Wordpress Alias URL Stream Plugin
 
-**Version:** 1.0.0  
-**Author:** NuoBiT Solutions, S.L.  
+**Version:** 1.0.1<br>
+**Author:** NuoBiT Solutions, S.L.<br>
 **License:** AGPLv3
 
 ## Description:
